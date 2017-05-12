@@ -1,0 +1,35 @@
+/* 
+    Document   : ADminpageCss
+    Created on : 13 Nov, 2014, 1:52:04 PM
+    Author     : lakshay
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.admin {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 36px;
+}
+.user {
+	font-size: 14px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000;
+}
+.admin strong {
+	color: #3F9;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.adduser {
+	font-weight: bold;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 18px;
+	color: #639;
+}
+.sid {
+	color: #303;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 24px;
+}
+.heading {
+	font-size: 24px;
+	color: #30F;
+}
